@@ -1,0 +1,6 @@
+flask
+psycopg2-binary
+chromadb
+sentence-transformers
+openai
+psycopg2
